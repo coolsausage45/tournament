@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: url('https://i.redd.it/e1569zmb7t161.png');
+    height: 1400px;
+    width: 900px;
+    overflow: hidden;
+  }
+  div {
+    width: 200px;
+    background: black;
+    background-image: url('https://i.redd.it/e1569zmb7t161.png');
+    -webkit-text-fill-color: white;
+  }
+  .disabled {
+    -webkit-text-fill-color: grey;
+  }
+  .border-light {
+    color: grey;
+  }
+  .border {
+    margin-left: 400%
+  }
